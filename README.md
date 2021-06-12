@@ -6,7 +6,9 @@ Connect Four is a two-player connection game, in which the players first choose 
 
 ### You must have JRE 9 installed
 Then you can download the distributable JAR from the Releases section of GitHub and Play the Game !
-You can play on any desktop platform Windows/Mac/Linux
+```diff
++ You can play on any desktop platform Windows/Mac/Linux
+```
 
 ## Here are some attached screenshots of code from IDE and the actual JAVA Game running
 
